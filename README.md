@@ -1,10 +1,8 @@
-![Screenshot](bd1.jpg)
-
 # A Happy Birthday animation design in CSS3, HTML5.
 
-## This edited repo is just for Reham (my friend) as a present in her birthday.
+## This is an edited repo
 
-## URL: https://supermoody.github.io/Just_For_Reham/
+## URL: https://supermoody.github.io/birthday
 
 ## Technology Used: 
 * HTML5 
