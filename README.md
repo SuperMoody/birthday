@@ -2,14 +2,11 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http://ayusharma.github.io/birthday/
+This repo is edited just for Reham (my friend) as a present in her a birthday.
+
+URL: https://supermoody.github.io/Just_For_Reham/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-For further queries do not hesitate to contact me.
+Forked from [!Ayoush Sharma](https://github.com/ayusharma)'s original [!Repo](https://github.com/ayusharma/birthday)
 
-Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
-
-contact details: ayush.aceit@gmail.com
-
-IRC: ayushpix
