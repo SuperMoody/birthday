@@ -1,12 +1,12 @@
 ![Screenshot](bd1.jpg)
 
-#A Happy Birthday animation design in CSS3, HTML5.
+# A Happy Birthday animation design in CSS3, HTML5.
 
-##This repo is edited just for Reham (my friend) as a present in her a birthday.
+## This repo is edited just for Reham (my friend) as a present in her a birthday.
 
-##URL: https://supermoody.github.io/Just_For_Reham/
+## URL: https://supermoody.github.io/Just_For_Reham/
 
-##Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+## Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-##Forked from [Ayoush Sharma](https://github.com/ayusharma)'s original [Repository](https://github.com/ayusharma/birthday)
+## Forked from [Ayoush Sharma](https://github.com/ayusharma)'s original [Repository](https://github.com/ayusharma/birthday)
 
